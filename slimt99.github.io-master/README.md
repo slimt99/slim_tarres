@@ -1,4 +1,4 @@
-# <a href="https://slimt99.github.io/" target="_blank">My Portfolio</a>
+# <a href="https://slimt99.github.io/" target="_blank">Slim Tarres | Portfolio </a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/slimt99/slimt99.github.io)
